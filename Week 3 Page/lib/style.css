@@ -1,0 +1,23 @@
+#header{
+    background-image: url(https://cdn.pixabay.com/photo/2019/01/06/23/53/marine-3918262_960_720.jpg);
+    font-family:DejaVu Sans Mono, monospace;
+    color: antiquewhite;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block; /* remove extra space below image */
+}
+.Antalya{
+    height: 200px;
+}
+.footer{
+    background-color: white;
+    font-size: 15px;
+}
+.navbar{
+    background-color:#424649;
+}
+.navtext{
+    color: white;
+}
